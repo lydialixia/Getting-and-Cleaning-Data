@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
@@ -13,3 +14,6 @@ To get and clean the raw data, I performed the following steps:\
 * Combine the train data and test data\
 * Create a tidy data\
 * Create a tidy data with the average of each variable for each activity and each subject}
+=======
+# Getting-and-Cleaning-Data
+>>>>>>> 94a8073ccade1e6a44e4eb5767968d83fb41dc13
